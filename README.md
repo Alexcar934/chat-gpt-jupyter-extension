@@ -3,6 +3,9 @@
 A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT or GPT-4.
 
 Primary functions, have ChatGPT/GPT-4:
+xlc,dcmdlcñ
+
+c,ldv vl,l,vcldv
 
 - **Format** - Automatically add comments, docstrings, and formatting to your code cell.
 - **Explain** - Explain the content of your code cell, ELI5 style.
