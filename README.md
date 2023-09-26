@@ -12,6 +12,7 @@ Primary functions, have ChatGPT/GPT-4:
 - **Ask a question** - Ask ChatGPT a custom question.
 - **Voice command** - Ask ChatGPT a custom question through your microphone.
     - Note: this requires an OpenAI API key and uses the OpenAI Whisper API, which charges $0.006 per minute.
+    - Cambios:...
 
 **Note: *Ask a question* and *Voice command* are a work-in-progress.**
 
